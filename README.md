@@ -21,11 +21,16 @@ This is a Simple matrix Toturial. i hope it useful.
 >And Change Color :
 
 * Pink :
+
 * ```ctx.fillStyle = "#f4427d";//Pink text``` Script.js -> Line:32
+
 <img src="./asset/images/pink.jpg">
+
 * Green :
 * ```ctx.fillStyle = "#14f606";//green text``` Script.js -> Line:32
+
 <img src="./asset/images/green.jpg">
+
 * Or any color you like
 
 #### included Files in Project:
