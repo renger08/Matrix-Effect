@@ -39,3 +39,6 @@ This is a Simple matrix Toturial. i hope it useful.
 * script.js
 
 <img src="./asset/images/all_included_files.png">
+
+
+<img align="left" alt="Ali Renger Github Stats" src="https://github-readme-stats.vercel.app/api?username=renger08&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
